@@ -1,0 +1,80 @@
+row_index,bridge_id,column,issue_code,severity,description,invalid_value
+87,B00951LZ,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+676,B00023BN,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+1703,B03383LZ,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+2054,B04637LZ,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+2808,B01973MN,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+2877,B02751LZ,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+3263,B02425LZ,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+3648,B02451LZ,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+4574,B00145NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+4589,B00179NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+4637,B00437NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+4720,B00435NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+4750,B00551PN,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+4791,B00441NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+4822,B00510PN,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5048,B00174NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5066,B00314NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5082,B00512PN,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5197,B00146NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5378,B00489NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5391,B00294NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5417,B00172NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5428,B00170NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5660,B00511PN,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+5678,B00153NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+6700,B00049NR,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+6803,B00317SM,BR_WIDTH,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0.0 is below minimum bound (1.0).,0.0
+680,B02354LZ,BR_WIDTH,ERR_NUMERICAL_OVERFLOW,HIGH,Value 90.0 exceeds maximum bound (60.0).,90.0
+6040,B00018LT,NUM_SPAN,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+195,B04316LZ,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+1996,B04759LZ,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+2220,B04980LZ,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+2997,B00355PW,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+3347,B00379PW,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+4158,B00378PW,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+6803,B00317SM,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+8182,B01864MN,NUM_LANES,ERR_NUMERICAL_UNDERFLOW,HIGH,Value 0 is below minimum bound (1).,0
+1097,B04772LZ,LOAD_LIMIT,ERR_NUMERICAL_OVERFLOW,HIGH,Value 180.0 exceeds maximum bound (100).,180.0
+6973,B01396MN,LOAD_LIMIT,ERR_NUMERICAL_OVERFLOW,HIGH,Value 200.0 exceeds maximum bound (100).,200.0
+908,B01618LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+2221,B05014LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+2542,B05016LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+2893,B04947LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+3106,B04796LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+3267,B00392PW,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 2033 is outside realistic bounds (1800-2026).,2033
+3641,B04899LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+3676,B04945LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+4262,B04943LZ,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+5729,B00244BH,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 20910 is outside realistic bounds (1800-2026).,20910
+6847,B00003LP,ACTUAL_YR,ERR_INVALID_CONSTRUCTION_YEAR,MEDIUM,Year 0 is outside realistic bounds (1800-2026).,0
+53,B04732LZ,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+87,B00951LZ,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+346,B04618LZ,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+799,B04519LZ,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+1354,B04286LZ,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+1534,B04518LZ,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+2844,B00015AB,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+2876,B00012SY,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+3066,B00014PW,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+3253,B00049CR,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+3556,B01712MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+3754,B00011SY,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+3863,B00145MR,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+4160,B00009PW,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+4396,B00292PW,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+4682,B00508PN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+6200,B00561SM,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+6779,B00545SM,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+6803,B00317SM,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+7215,B01281MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+7372,B01602MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+7533,B01277MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+7562,B01627MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+7727,B01629MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+7948,B01222MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+8030,B00251MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+8114,B01218MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+8398,B01630MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey
+8461,B01625MN,BR_TYPE1,ERR_INVALID_CATEGORY,MEDIUM,"Value 'Bailey' not in allowed categories ['Concrete', 'Steel', 'Timber', 'Masonry', 'Pre-stressed Concrete', 'Other'].",Bailey

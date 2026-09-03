@@ -1,0 +1,201 @@
+OBJECTID,ISLAND,REGION,PROVINCE,DEO,ROAD_NAME,BRIDGE_ID,BR_NAME,BR_LENGTH,BR_WIDTH,BR_TYPE1,BR_TYPE2,ACTUAL_YR,CONDITION,NUM_SPAN,NUM_LANES,LOAD_LIMIT,LATITUDE,LONGITUDE
+1,Luzon,Cordillera Administrative Region,Benguet,Benguet 1st DEO,National Highway Sector 1,B00001LZ,Sample Bridge 1,238.21,6.29,Steel,Permanent,2020,Fair,5,4,30,15.587542,120.62395
+2,Luzon,Cordillera Administrative Region,Cavite,Cavite DEO,National Highway Sector 2,B00002LZ,Sample Bridge 2,229.72,10.86,Timber,Permanent,1963,Good,2,4,25,16.670393,121.227431
+3,Luzon,National Capital Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 3,B00003LZ,Sample Bridge 3,142.51,8.27,Timber,Permanent,1970,Fair,4,2,25,14.137019,121.194089
+4,Luzon,Region I - Ilocos Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 4,B00004LZ,Sample Bridge 4,110.14,7.69,Steel,Permanent,2011,Good,1,2,30,14.731978,120.845279
+5,Luzon,Cordillera Administrative Region,Cavite,Cavite DEO,National Highway Sector 5,B00005LZ,Sample Bridge 5,205.52,13.99,Steel,Permanent,2006,Poor,3,2,30,15.422194,120.309486
+6,Luzon,Cordillera Administrative Region,Cavite,Cavite DEO,National Highway Sector 6,,Sample Bridge 6,288.69,8.65,Steel,Permanent,1996,Bad,5,6,20,14.27879,120.834639
+7,Luzon,Region I - Ilocos Region,Benguet,Metro Manila 1st DEO,National Highway Sector 7,B00007LZ,Sample Bridge 7,288.48,9.96,Timber,Permanent,1961,Bad,10,2,25,16.069189,120.951374
+8,Luzon,Cordillera Administrative Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 8,B00008LZ,Sample Bridge 8,169.01,10.77,Concrete,Permanent,1962,Good,9,4,25,15.951173,120.788364
+9,Luzon,Region I - Ilocos Region,Cavite,Metro Manila 1st DEO,National Highway Sector 9,B00009LZ,Sample Bridge 9,200.5,13.24,Timber,Permanent,1977,Fair,3,6,30,14.659309,120.778409
+10,Luzon,National Capital Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 0,B00010LZ,Sample Bridge 10,299.16,9.21,Pre-stressed Concrete,Permanent,1988,Bad,8,6,25,14.251256,120.356782
+11,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Cavite DEO,National Highway Sector 1,B00011LZ,Sample Bridge 11,99.33,6.65,Timber,Permanent,2004,Bad,9,2,25,16.540457,121.429782
+12,Luzon,Cordillera Administrative Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 2,B00012LZ,Sample Bridge 12,59.91,8.96,Pre-stressed Concrete,Permanent,1993,Bad,6,6,25,15.529929,120.393374
+13,Luzon,National Capital Region,Metro Manila,Cavite DEO,National Highway Sector 3,B00013LZ,,220.2,6.17,Steel,Permanent,2007,Good,8,4,25,14.862004,120.595281
+14,Luzon,National Capital Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 4,B00014LZ,Sample Bridge 14,189.83,8.28,Concrete,Permanent,1982,Poor,6,2,15,14.479391,120.47791
+15,Luzon,Cordillera Administrative Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 5,B00015LZ,Sample Bridge 15,36.0,14.97,Pre-stressed Concrete,Permanent,2014,Bad,8,2,25,16.260096,121.810274
+16,Luzon,Region IV-A - CALABARZON,Cavite,Benguet 1st DEO,National Highway Sector 6,B00016LZ,Sample Bridge 16,298.21,13.06,Concrete,Permanent,1995,Good,10,4,25,15.549752,121.304002
+17,Luzon,National Capital Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 7,B00017LZ,Sample Bridge 17,19.35,12.07,Timber,Permanent,1987,Poor,4,6,30,16.097448,121.710315
+18,Luzon,Cordillera Administrative Region,Cavite,Ilocos Norte 1st DEO,National Highway Sector 8,B00018LZ,Sample Bridge 18,129.09,6.49,Steel,Permanent,1991,Good,2,4,15,14.027288,120.421443
+19,Luzon,Region IV-A - CALABARZON,Metro Manila,Cavite DEO,National Highway Sector 9,B00019LZ,Sample Bridge 19,122.9,12.2,Steel,Permanent,1970,Fair,1,4,20,15.130342,120.60878
+20,Luzon,Region I - Ilocos Region,Cavite,Ilocos Norte 1st DEO,National Highway Sector 0,B00020LZ,Sample Bridge 20,236.02,13.55,Pre-stressed Concrete,Permanent,1992,Fair,9,2,25,16.798017,121.939157
+21,Luzon,Region I - Ilocos Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 1,B00021LZ,Sample Bridge 21,67.06,6.95,Concrete,Permanent,2003,Good,4,2,20,99.999,200.0
+22,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 2,B00022LZ,Sample Bridge 22,168.24,9.67,Pre-stressed Concrete,Permanent,1979,Bad,9,2,20,16.430773,120.287809
+23,Luzon,Cordillera Administrative Region,Benguet,Benguet 1st DEO,National Highway Sector 3,B00023LZ,Sample Bridge 23,276.29,6.48,Steel,Permanent,2017,Poor,6,4,15,14.3332,120.411492
+24,Luzon,Cordillera Administrative Region,Benguet,Metro Manila 1st DEO,National Highway Sector 4,B00024LZ,Sample Bridge 24,298.47,7.47,Pre-stressed Concrete,Permanent,1980,Poor,1,4,25,16.361223,121.775941
+25,Luzon,Region I - Ilocos Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 5,B00025LZ,Sample Bridge 25,57.92,13.62,Steel,Permanent,1971,Bad,5,6,30,15.197557,120.769339
+26,Luzon,Region I - Ilocos Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 6,B00026LZ,Sample Bridge 26,84.88,10.56,Steel,Permanent,1960,Poor,5,4,25,14.113749,121.036761
+27,Luzon,Region I - Ilocos Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 7,B00027LZ,Sample Bridge 27,240.08,13.46,Timber,Permanent,2002,Good,10,4,30,16.974289,121.773011
+28,Luzon,Region I - Ilocos Region,Cavite,Cavite DEO,National Highway Sector 8,B00028LZ,Sample Bridge 28,22.07,9.32,Concrete,Permanent,2001,Fair,9,2,20,14.864459,120.521446
+29,Luzon,Region I - Ilocos Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 9,B00029LZ,Sample Bridge 29,104.26,14.66,Concrete,Permanent,1983,Poor,9,2,25,14.348854,121.913552
+30,Luzon,Region I - Ilocos Region,Cavite,Cavite DEO,National Highway Sector 0,B00030LZ,Sample Bridge 30,251.25,11.14,Concrete,Permanent,1971,Poor,5,4,20,16.027214,120.983721
+31,Luzon,Region I - Ilocos Region,Metro Manila,Cavite DEO,National Highway Sector 1,B00031LZ,Sample Bridge 31,75.71,13.3,Pre-stressed Concrete,Permanent,1999,Poor,2,2,15,16.990491,121.044236
+32,Luzon,National Capital Region,Cavite,Ilocos Norte 1st DEO,National Highway Sector 2,B00032LZ,Sample Bridge 32,254.26,7.9,Concrete,Permanent,1984,Bad,5,4,15,14.734578,121.700351
+33,Luzon,Region I - Ilocos Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 3,B00033LZ,Sample Bridge 33,101.84,11.32,Steel,Permanent,1973,Good,1,6,20,14.618697,121.315027
+34,Luzon,National Capital Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 4,B00034LZ,Sample Bridge 34,175.37,9.01,Timber,Permanent,2001,Good,4,4,20,15.180997,120.910468
+35,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Benguet 1st DEO,National Highway Sector 5,B00035LZ,Sample Bridge 35,109.04,12.9,Timber,Permanent,1974,Fair,10,2,20,15.957425,120.310163
+36,Luzon,National Capital Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 6,B00036LZ,Sample Bridge 36,-50.0,7.77,Timber,Permanent,2012,Bad,10,4,20,16.608249,120.450682
+37,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Benguet 1st DEO,National Highway Sector 7,B00037LZ,Sample Bridge 37,86.27,9.23,Concrete,Permanent,2002,Bad,6,4,25,15.166066,121.006508
+38,Luzon,National Capital Region,Benguet,Benguet 1st DEO,National Highway Sector 8,B00038LZ,Sample Bridge 38,17.39,14.24,Timber,Permanent,1978,Bad,2,6,20,14.411875,120.113377
+39,Luzon,Cordillera Administrative Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 9,B00039LZ,Sample Bridge 39,64.22,14.34,Timber,Permanent,2017,Bad,7,6,30,15.919114,120.537867
+40,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 0,B00040LZ,Sample Bridge 40,262.5,9.96,Timber,Permanent,2004,Fair,4,6,25,14.830236,120.669818
+41,Luzon,National Capital Region,Benguet,Cavite DEO,National Highway Sector 1,B00041LZ,Sample Bridge 41,104.63,13.57,Steel,Permanent,2004,Fair,5,6,30,16.591374,121.035257
+42,Luzon,Region I - Ilocos Region,Benguet,Benguet 1st DEO,National Highway Sector 2,B00042LZ,Sample Bridge 42,190.41,7.43,Timber,Permanent,1984,Fair,10,4,30,15.679617,121.582273
+43,Luzon,Region IV-A - CALABARZON,Metro Manila,Benguet 1st DEO,National Highway Sector 3,B00043LZ,Sample Bridge 43,213.88,9.26,Concrete,Permanent,2999,Good,3,2,20,14.46922,120.035861
+44,Luzon,Region IV-A - CALABARZON,Benguet,Metro Manila 1st DEO,National Highway Sector 4,B00044LZ,Sample Bridge 44,295.54,7.68,Steel,Permanent,1961,Bad,4,6,20,15.011574,121.557511
+45,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 5,B00045LZ,Sample Bridge 45,227.35,8.13,Steel,Permanent,2000,Fair,4,4,15,16.854259,120.609795
+46,Luzon,Region IV-A - CALABARZON,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 6,B00046LZ,Sample Bridge 46,208.38,6.09,Timber,Permanent,1964,Poor,2,6,15,14.786008,120.401471
+47,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 7,B00047LZ,Sample Bridge 47,49.75,11.39,Pre-stressed Concrete,Permanent,2012,Fair,7,6,30,15.10574,121.434976
+48,Luzon,National Capital Region,Cavite,Metro Manila 1st DEO,National Highway Sector 8,B00048LZ,Sample Bridge 48,268.23,8.27,Pre-stressed Concrete,Permanent,2009,Bad,6,2,25,14.550847,121.991601
+49,Luzon,Region IV-A - CALABARZON,Cavite,Ilocos Norte 1st DEO,National Highway Sector 9,B00049LZ,Sample Bridge 49,97.26,7.09,Steel,Permanent,1969,Bad,2,4,15,16.448729,121.775077
+50,Luzon,Region I - Ilocos Region,Metro Manila,Benguet 1st DEO,National Highway Sector 0,B00050LZ,Sample Bridge 50,267.77,8.7,Concrete,Permanent,1993,Fair,6,4,30,14.302534,120.024288
+51,Luzon,National Capital Region,Metro Manila,Cavite DEO,National Highway Sector 1,B00051LZ,Sample Bridge 51,110.85,13.52,Steel,Permanent,1973,Good,2,2,15,16.650095,121.450127
+52,Luzon,Region I - Ilocos Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 2,B00052LZ,Sample Bridge 52,71.5,8.39,Steel,Permanent,1969,Good,5,2,20,16.14932,120.042796
+53,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 3,B00053LZ,Sample Bridge 53,86.85,7.58,Pre-stressed Concrete,Permanent,1983,Fair,9,4,20,16.512483,120.924868
+54,Luzon,National Capital Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 4,B00054LZ,Sample Bridge 54,37.7,14.33,Pre-stressed Concrete,Permanent,2000,Good,6,6,20,15.329595,121.364118
+55,Luzon,National Capital Region,Cavite,Ilocos Norte 1st DEO,National Highway Sector 5,B00055LZ,Sample Bridge 55,123.27,10.92,Timber,Permanent,1978,Good,1,2,15,15.989676,121.800878
+56,Luzon,National Capital Region,Benguet,Metro Manila 1st DEO,National Highway Sector 6,INVALID_ID_FORMAT_999,Sample Bridge 56,12.39,9.51,Concrete,Permanent,1979,Bad,8,4,15,15.968174,121.095728
+57,Luzon,Cordillera Administrative Region,Cavite,Metro Manila 1st DEO,National Highway Sector 7,B00057LZ,Sample Bridge 57,242.26,11.33,Steel,Permanent,1980,Fair,1,4,25,15.170504,121.123665
+58,Luzon,National Capital Region,Cavite,Ilocos Norte 1st DEO,National Highway Sector 8,B00058LZ,Sample Bridge 58,230.4,8.75,Pre-stressed Concrete,Permanent,2018,Fair,3,2,25,14.192908,120.321816
+59,Luzon,Cordillera Administrative Region,Cavite,Benguet 1st DEO,National Highway Sector 9,B00059LZ,Sample Bridge 59,163.44,8.29,Steel,Permanent,1975,Bad,10,4,20,15.598841,120.065218
+60,Luzon,Region IV-A - CALABARZON,Benguet,Metro Manila 1st DEO,National Highway Sector 0,B00060LZ,Sample Bridge 60,127.43,10.71,Concrete,Permanent,2008,Poor,10,2,15,14.608896,121.437608
+61,Luzon,Region IV-A - CALABARZON,Benguet,Ilocos Norte 1st DEO,National Highway Sector 1,B00061LZ,Sample Bridge 61,107.4,9.82,Pre-stressed Concrete,Permanent,1963,Bad,1,6,15,16.784831,120.637067
+62,Luzon,National Capital Region,Ilocos Norte,Cavite DEO,National Highway Sector 2,B00062LZ,Sample Bridge 62,11.15,6.78,Timber,Permanent,1965,Bad,7,2,15,16.177799,120.125235
+63,Luzon,Region I - Ilocos Region,Cavite,Benguet 1st DEO,National Highway Sector 3,B00063LZ,Sample Bridge 63,228.76,13.32,Pre-stressed Concrete,Permanent,1971,Good,2,2,20,16.969644,120.085027
+64,Luzon,National Capital Region,Ilocos Norte,Cavite DEO,National Highway Sector 4,B00064LZ,Sample Bridge 64,66.73,9.5,Timber,Permanent,1973,Good,2,2,20,14.515236,121.507929
+65,Luzon,Cordillera Administrative Region,Cavite,Benguet 1st DEO,National Highway Sector 5,B00065LZ,Sample Bridge 65,201.94,6.21,Concrete,Permanent,1988,Good,1,4,15,15.411074,120.556526
+66,Luzon,Region I - Ilocos Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 6,B00066LZ,Sample Bridge 66,124.77,11.27,Timber,Permanent,1991,Bad,10,6,25,15.650559,121.583816
+67,Luzon,National Capital Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 7,B00067LZ,Sample Bridge 67,110.84,10.6,Concrete,Permanent,2021,Bad,1,4,20,15.043989,120.210059
+68,Luzon,Cordillera Administrative Region,Benguet,Cavite DEO,National Highway Sector 8,B00068LZ,Sample Bridge 68,40.27,14.77,Concrete,Permanent,2000,Poor,3,2,25,14.912815,121.963116
+69,Luzon,National Capital Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 9,B00069LZ,Sample Bridge 69,233.03,9.18,Concrete,Permanent,1978,Good,6,6,20,15.726653,121.896651
+70,Luzon,Cordillera Administrative Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 0,B00070LZ,Sample Bridge 70,85.6,6.16,Pre-stressed Concrete,Permanent,1968,Fair,8,4,30,14.740999,120.415461
+71,Luzon,Region IV-A - CALABARZON,Cavite,Benguet 1st DEO,National Highway Sector 1,B00011LZ,Sample Bridge 71,268.53,12.62,Timber,Permanent,1969,Bad,8,2,25,15.144596,121.632647
+72,Luzon,Region IV-A - CALABARZON,Benguet,Benguet 1st DEO,National Highway Sector 2,B00072LZ,Sample Bridge 72,137.49,12.31,Pre-stressed Concrete,Permanent,1964,Bad,2,2,15,15.316467,121.276244
+73,Luzon,National Capital Region,Cavite,Metro Manila 1st DEO,National Highway Sector 3,B00073LZ,Sample Bridge 73,187.67,8.48,Steel,Permanent,1998,Fair,6,4,20,15.930662,120.364383
+74,Luzon,National Capital Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 4,B00074LZ,Sample Bridge 74,245.72,9.49,Timber,Permanent,2000,Poor,5,6,15,15.163059,120.862828
+75,Luzon,Region IV-A - CALABARZON,Benguet,Benguet 1st DEO,National Highway Sector 5,B00075LZ,Sample Bridge 75,15.27,11.06,Steel,Permanent,1965,Fair,3,2,30,15.534593,120.251672
+76,Luzon,National Capital Region,Cavite,Benguet 1st DEO,National Highway Sector 6,B00076LZ,Sample Bridge 76,292.59,12.79,Timber,Permanent,1986,Fair,3,6,20,14.58753,120.813828
+77,Luzon,National Capital Region,Cavite,Cavite DEO,National Highway Sector 7,B00077LZ,Sample Bridge 77,154.05,7.49,Concrete,Permanent,2020,Bad,8,4,30,16.351877,120.939837
+78,Luzon,Cordillera Administrative Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 8,B00078LZ,Sample Bridge 78,267.45,7.91,Pre-stressed Concrete,Permanent,2010,Good,7,6,30,14.81121,121.624843
+79,Luzon,Cordillera Administrative Region,Metro Manila,Cavite DEO,National Highway Sector 9,B00079LZ,Sample Bridge 79,106.0,11.68,Steel,Permanent,1995,Poor,2,4,30,15.117027,120.18887
+80,Luzon,Cordillera Administrative Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 0,B00080LZ,Sample Bridge 80,196.33,6.64,Timber,Permanent,1989,Poor,4,4,20,16.211257,120.312829
+81,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 1,B00081LZ,Sample Bridge 81,49.11,6.98,Concrete,Permanent,2016,Bad,2,2,25,15.389721,121.79681
+82,Luzon,Cordillera Administrative Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 2,B00082LZ,Sample Bridge 82,220.93,6.45,Timber,Permanent,1972,Poor,6,2,25,14.845561,121.858054
+83,Luzon,National Capital Region,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 3,B00083LZ,Sample Bridge 83,135.73,12.47,Steel,Permanent,1965,Bad,9,4,30,15.22777,120.161831
+84,Luzon,National Capital Region,Metro Manila,Benguet 1st DEO,National Highway Sector 4,B00084LZ,Sample Bridge 84,185.73,13.02,Steel,Permanent,1993,Bad,2,2,15,15.47936,120.885063
+85,Luzon,Cordillera Administrative Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 5,B00085LZ,Sample Bridge 85,17.6,11.33,Timber,Permanent,2011,Poor,7,2,20,15.36679,120.319274
+86,Luzon,Cordillera Administrative Region,Metro Manila,Cavite DEO,National Highway Sector 6,B00086LZ,Sample Bridge 86,250.4,14.92,Timber,Permanent,1991,Good,9,4,15,14.801202,120.445033
+87,Luzon,Cordillera Administrative Region,Cavite,Metro Manila 1st DEO,National Highway Sector 7,B00087LZ,Sample Bridge 87,171.36,9.14,Pre-stressed Concrete,Permanent,2003,Bad,6,6,15,15.12369,121.216191
+88,Luzon,Cordillera Administrative Region,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 8,B00088LZ,Sample Bridge 88,162.39,6.84,Concrete,Permanent,1999,Poor,4,2,30,16.114799,121.975472
+89,Luzon,Cordillera Administrative Region,Cavite,Benguet 1st DEO,National Highway Sector 9,B00089LZ,Sample Bridge 89,21.89,9.23,Pre-stressed Concrete,Permanent,1963,Destroyed Beyond Repair,8,6,15,14.546788,120.147178
+90,Luzon,Region I - Ilocos Region,Cavite,Benguet 1st DEO,National Highway Sector 0,B00090LZ,Sample Bridge 90,100.62,8.58,Pre-stressed Concrete,Permanent,1962,Poor,9,4,30,15.162913,121.228806
+91,Luzon,National Capital Region,Benguet,Benguet 1st DEO,National Highway Sector 1,B00091LZ,Sample Bridge 91,108.66,6.86,Pre-stressed Concrete,Permanent,2017,Fair,6,2,15,14.488405,120.090947
+92,Luzon,National Capital Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 2,B00092LZ,Sample Bridge 92,281.3,9.57,Pre-stressed Concrete,Permanent,1978,Good,10,2,20,16.374481,120.827062
+93,Luzon,National Capital Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 3,B00093LZ,Sample Bridge 93,258.36,12.11,Concrete,Permanent,2004,Bad,10,6,30,14.894462,121.428218
+94,Luzon,Region I - Ilocos Region,Metro Manila,Benguet 1st DEO,National Highway Sector 4,B00094LZ,Sample Bridge 94,32.33,13.96,Concrete,Permanent,1988,Poor,6,2,15,16.094082,121.008931
+95,Luzon,Region IV-A - CALABARZON,Metro Manila,Benguet 1st DEO,National Highway Sector 5,B00095LZ,Sample Bridge 95,276.94,13.51,Pre-stressed Concrete,Permanent,1984,Good,9,2,15,16.241654,120.789955
+96,Luzon,Cordillera Administrative Region,Metro Manila,Cavite DEO,National Highway Sector 6,B00096LZ,Sample Bridge 96,121.51,11.71,Pre-stressed Concrete,Permanent,1977,Fair,10,4,15,15.60177,121.48617
+97,Luzon,National Capital Region,Benguet,Cavite DEO,National Highway Sector 7,B00097LZ,Sample Bridge 97,245.44,13.61,Timber,Permanent,1985,Good,7,4,25,15.845051,121.453942
+98,Luzon,Cordillera Administrative Region,Metro Manila,Cavite DEO,National Highway Sector 8,B00098LZ,Sample Bridge 98,262.75,12.19,Concrete,Permanent,1967,Fair,6,6,15,15.492881,120.559934
+99,Luzon,National Capital Region,Metro Manila,Benguet 1st DEO,National Highway Sector 9,B00099LZ,Sample Bridge 99,225.2,8.16,Concrete,Permanent,1962,Poor,6,6,30,16.005567,120.240083
+100,Luzon,Cordillera Administrative Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 0,B00100LZ,Sample Bridge 100,87.78,10.42,Timber,Permanent,2012,Bad,4,2,25,14.538809,120.199904
+101,Luzon,National Capital Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 1,B00101LZ,Sample Bridge 101,220.13,6.69,Concrete,Permanent,2006,Fair,5,6,25,15.090723,120.56108
+102,Luzon,Region I - Ilocos Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 2,B00102LZ,Sample Bridge 102,158.13,13.65,Timber,Permanent,2005,Good,6,6,15,14.287445,120.41225
+103,Luzon,National Capital Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 3,B00103LZ,Sample Bridge 103,101.73,9.88,Concrete,Permanent,1986,Fair,1,6,15,14.842114,121.899008
+104,Luzon,Cordillera Administrative Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 4,B00104LZ,Sample Bridge 104,171.43,12.24,Steel,Permanent,2007,Poor,1,2,15,16.045995,120.644642
+105,Luzon,Region I - Ilocos Region,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 5,B00105LZ,Sample Bridge 105,142.97,7.56,Concrete,Permanent,2001,Good,7,2,25,14.591115,121.191916
+106,Luzon,Region I - Ilocos Region,Metro Manila,Cavite DEO,National Highway Sector 6,B00106LZ,Sample Bridge 106,68.96,13.74,Steel,Permanent,2006,Poor,1,6,25,16.462034,121.936246
+107,Luzon,Region I - Ilocos Region,Benguet,Benguet 1st DEO,National Highway Sector 7,B00107LZ,Sample Bridge 107,24.38,14.23,Concrete,Permanent,1984,Bad,8,4,15,16.941672,121.370193
+108,Luzon,Region IV-A - CALABARZON,Cavite,Benguet 1st DEO,National Highway Sector 8,B00108LZ,Sample Bridge 108,265.24,6.4,Timber,Permanent,1961,Fair,9,4,20,16.513094,121.263424
+109,Luzon,Cordillera Administrative Region,Metro Manila,Cavite DEO,National Highway Sector 9,B00109LZ,Sample Bridge 109,166.12,7.8,Steel,Permanent,2017,Fair,7,2,20,15.386894,120.441895
+110,Luzon,National Capital Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 0,B00110LZ,Sample Bridge 110,204.62,11.19,Concrete,Permanent,2010,Good,5,6,20,16.382596,121.064914
+111,Luzon,National Capital Region,Metro Manila,Cavite DEO,National Highway Sector 1,B00111LZ,Sample Bridge 111,14.67,8.29,Concrete,Permanent,1994,Poor,4,4,25,14.427874,121.581604
+112,Luzon,National Capital Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 2,B00112LZ,Sample Bridge 112,61.45,10.59,Steel,Permanent,2010,Bad,6,2,30,15.179124,120.204267
+113,Luzon,Region IV-A - CALABARZON,Cavite,Cavite DEO,National Highway Sector 3,B00113LZ,Sample Bridge 113,181.39,14.46,Concrete,Permanent,2009,Poor,9,4,20,14.75049,121.904263
+114,Luzon,Region IV-A - CALABARZON,Metro Manila,Cavite DEO,National Highway Sector 4,B00114LZ,Sample Bridge 114,59.63,8.53,Steel,Permanent,1990,Fair,9,2,15,15.433106,120.609529
+115,Luzon,Cordillera Administrative Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 5,B00115LZ,Sample Bridge 115,87.48,6.75,Pre-stressed Concrete,Permanent,1965,Good,1,2,25,14.419991,121.280497
+116,Luzon,Region I - Ilocos Region,Metro Manila,Cavite DEO,National Highway Sector 6,B00116LZ,Sample Bridge 116,298.86,10.6,Steel,Permanent,1998,Poor,9,6,25,15.009796,120.864067
+117,Luzon,Region IV-A - CALABARZON,Benguet,Benguet 1st DEO,National Highway Sector 7,B00117LZ,Sample Bridge 117,54.76,6.8,Timber,Permanent,1993,Bad,1,6,25,15.235496,121.52344
+118,Luzon,Region IV-A - CALABARZON,Cavite,Metro Manila 1st DEO,National Highway Sector 8,B00118LZ,Sample Bridge 118,180.99,13.48,Pre-stressed Concrete,Permanent,1982,Poor,1,2,30,14.429261,120.655448
+119,Luzon,Region IV-A - CALABARZON,Metro Manila,Benguet 1st DEO,National Highway Sector 9,B00119LZ,Sample Bridge 119,119.06,6.09,Pre-stressed Concrete,Permanent,2003,Bad,8,6,20,14.7218,120.442402
+120,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 0,B00120LZ,Sample Bridge 120,145.09,9.91,Pre-stressed Concrete,Permanent,2016,Bad,3,2,20,14.374695,121.463995
+121,Luzon,National Capital Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 1,B00121LZ,Sample Bridge 121,43.72,8.06,Concrete,Permanent,1974,Fair,8,2,15,15.603395,121.576734
+122,Luzon,Region I - Ilocos Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 2,B00122LZ,Sample Bridge 122,82.72,10.05,Timber,Permanent,2015,Fair,7,2,20,15.381933,121.474189
+123,Luzon,Cordillera Administrative Region,Benguet,Benguet 1st DEO,National Highway Sector 3,B00123LZ,Sample Bridge 123,102.83,8.69,Concrete,Permanent,1969,Poor,7,6,20,16.043781,120.443742
+124,Luzon,National Capital Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 4,B00124LZ,Sample Bridge 124,185.25,6.11,Timber,Permanent,1966,Bad,1,6,30,15.140087,121.884222
+125,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 5,B00125LZ,Sample Bridge 125,52.04,13.59,Steel,Permanent,2008,Poor,3,2,20,14.537653,120.492606
+126,Luzon,National Capital Region,Benguet,Benguet 1st DEO,National Highway Sector 6,B00126LZ,Sample Bridge 126,252.41,7.06,Timber,Permanent,1967,Fair,5,2,20,16.837029,121.551159
+127,Luzon,Region IV-A - CALABARZON,Cavite,Ilocos Norte 1st DEO,National Highway Sector 7,B00127LZ,Sample Bridge 127,183.64,9.93,Concrete,Permanent,1976,Bad,7,2,15,16.845694,120.830867
+128,Luzon,Region I - Ilocos Region,Metro Manila,Cavite DEO,National Highway Sector 8,B00128LZ,Sample Bridge 128,213.34,8.63,Concrete,Permanent,1974,Bad,4,2,25,14.726805,121.65924
+129,Luzon,National Capital Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 9,B00129LZ,Sample Bridge 129,96.94,9.84,Pre-stressed Concrete,Permanent,2014,Good,8,4,25,14.015303,121.390702
+130,Luzon,Region I - Ilocos Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 0,B00130LZ,Sample Bridge 130,170.85,8.14,Timber,Permanent,1979,Fair,6,6,25,14.030149,120.66504
+131,Luzon,National Capital Region,Cavite,Ilocos Norte 1st DEO,National Highway Sector 1,B00131LZ,Sample Bridge 131,260.53,8.05,Steel,Permanent,1975,Bad,3,4,30,16.641045,121.865869
+132,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Cavite DEO,National Highway Sector 2,B00132LZ,Sample Bridge 132,191.73,7.2,Pre-stressed Concrete,Permanent,2018,Fair,6,4,20,14.229758,121.119345
+133,Luzon,National Capital Region,Ilocos Norte,Cavite DEO,National Highway Sector 3,B00133LZ,Sample Bridge 133,226.64,10.42,Concrete,Permanent,1988,Bad,9,6,20,15.67645,120.637413
+134,Luzon,Region I - Ilocos Region,Benguet,Benguet 1st DEO,National Highway Sector 4,B00134LZ,Sample Bridge 134,162.04,14.77,Pre-stressed Concrete,Permanent,2015,Good,4,4,25,14.766251,121.891809
+135,Luzon,Cordillera Administrative Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 5,B00135LZ,Sample Bridge 135,121.68,6.61,Timber,Permanent,1987,Fair,2,4,30,14.819261,120.801663
+136,Luzon,Region I - Ilocos Region,Benguet,Benguet 1st DEO,National Highway Sector 6,B00136LZ,Sample Bridge 136,215.84,10.66,Steel,Permanent,1992,Good,7,2,25,16.516186,120.447693
+137,Luzon,Region I - Ilocos Region,Benguet,Benguet 1st DEO,National Highway Sector 7,B00137LZ,Sample Bridge 137,30.7,13.72,Concrete,Permanent,1993,Poor,7,2,30,15.331709,121.606374
+138,Luzon,Cordillera Administrative Region,Cavite,Ilocos Norte 1st DEO,National Highway Sector 8,B00138LZ,Sample Bridge 138,50.29,7.34,Pre-stressed Concrete,Permanent,1963,Good,5,2,30,15.023789,120.17537
+139,Luzon,Region IV-A - CALABARZON,Cavite,Metro Manila 1st DEO,National Highway Sector 9,B00139LZ,Sample Bridge 139,243.36,13.24,Steel,Permanent,2005,Fair,5,2,30,16.89977,121.478122
+140,Luzon,Region IV-A - CALABARZON,Benguet,Metro Manila 1st DEO,National Highway Sector 0,B00140LZ,Sample Bridge 140,265.52,9.6,Pre-stressed Concrete,Permanent,2021,Bad,1,6,30,15.892093,120.867101
+141,Luzon,Cordillera Administrative Region,Ilocos Norte,Cavite DEO,National Highway Sector 1,B00141LZ,Sample Bridge 141,163.97,6.86,Pre-stressed Concrete,Permanent,1964,Bad,5,6,15,15.610597,121.713312
+142,Luzon,National Capital Region,Benguet,Benguet 1st DEO,National Highway Sector 2,B00142LZ,Sample Bridge 142,73.09,6.01,Timber,Permanent,1993,Fair,5,4,25,16.039837,121.987921
+143,Luzon,Region IV-A - CALABARZON,Benguet,Cavite DEO,National Highway Sector 3,B00143LZ,Sample Bridge 143,53.91,6.02,Pre-stressed Concrete,Permanent,1971,Poor,9,6,20,14.232374,121.71127
+144,Luzon,Region I - Ilocos Region,Benguet,Benguet 1st DEO,National Highway Sector 4,B00144LZ,Sample Bridge 144,179.51,9.09,Steel,Permanent,2019,Fair,6,2,30,15.275967,121.927556
+145,Luzon,National Capital Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 5,B00145LZ,Sample Bridge 145,201.5,8.41,Concrete,Permanent,1998,Fair,1,4,25,16.173279,121.663482
+146,Luzon,Region IV-A - CALABARZON,Cavite,Metro Manila 1st DEO,National Highway Sector 6,B00146LZ,Sample Bridge 146,47.49,6.67,Timber,Permanent,1973,Good,6,4,25,16.767638,120.029983
+147,Luzon,Region I - Ilocos Region,Metro Manila,Benguet 1st DEO,National Highway Sector 7,B00147LZ,Sample Bridge 147,209.11,14.92,Concrete,Permanent,1978,Bad,3,6,15,16.372079,120.860541
+148,Luzon,National Capital Region,Metro Manila,Benguet 1st DEO,National Highway Sector 8,B00148LZ,Sample Bridge 148,89.87,10.87,Timber,Permanent,1974,Bad,3,6,30,16.984976,120.894104
+149,Luzon,National Capital Region,Metro Manila,Cavite DEO,National Highway Sector 9,B00149LZ,Sample Bridge 149,142.55,6.32,Steel,Permanent,2011,Bad,7,2,30,14.588304,120.089138
+150,Luzon,Region I - Ilocos Region,Metro Manila,Benguet 1st DEO,National Highway Sector 0,B00150LZ,Sample Bridge 150,89.38,8.67,Pre-stressed Concrete,Permanent,1997,Bad,1,6,30,14.063129,120.959929
+151,Luzon,National Capital Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 1,B00151LZ,Sample Bridge 151,19.37,10.91,Timber,Permanent,1979,Poor,9,6,15,16.554772,120.566733
+152,Luzon,National Capital Region,Cavite,Cavite DEO,National Highway Sector 2,B00152LZ,Sample Bridge 152,121.59,12.89,Steel,Permanent,2018,Bad,2,6,30,15.806433,120.963298
+153,Luzon,National Capital Region,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 3,B00153LZ,Sample Bridge 153,221.72,6.83,Steel,Permanent,1976,Poor,9,2,20,14.637389,121.015581
+154,Luzon,Region I - Ilocos Region,Cavite,Metro Manila 1st DEO,National Highway Sector 4,B00154LZ,Sample Bridge 154,152.53,6.26,Timber,Permanent,2015,Good,10,6,30,14.444287,121.210187
+155,Luzon,Cordillera Administrative Region,Benguet,Metro Manila 1st DEO,National Highway Sector 5,B00155LZ,Sample Bridge 155,67.04,7.11,Concrete,Permanent,1989,Poor,2,6,30,16.140265,120.639711
+156,Luzon,National Capital Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 6,B00156LZ,Sample Bridge 156,134.46,8.21,Pre-stressed Concrete,Permanent,2001,Poor,8,6,20,14.007657,121.355684
+157,Luzon,National Capital Region,Metro Manila,Cavite DEO,National Highway Sector 7,B00157LZ,Sample Bridge 157,13.24,11.6,Concrete,Permanent,2021,Good,1,6,25,15.912918,120.079026
+158,Luzon,Region I - Ilocos Region,Metro Manila,Benguet 1st DEO,National Highway Sector 8,B00158LZ,Sample Bridge 158,56.62,11.77,Timber,Permanent,2002,Bad,8,4,30,15.241133,120.401965
+159,Luzon,National Capital Region,Cavite,Cavite DEO,National Highway Sector 9,B00159LZ,Sample Bridge 159,152.92,12.51,Timber,Permanent,1990,Good,1,2,25,14.964804,121.199553
+160,Luzon,Region IV-A - CALABARZON,Metro Manila,Metro Manila 1st DEO,National Highway Sector 0,B00160LZ,Sample Bridge 160,104.45,12.09,Steel,Permanent,1985,Bad,1,4,20,16.618594,120.381212
+161,Luzon,Region I - Ilocos Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 1,B00161LZ,Sample Bridge 161,185.5,7.58,Timber,Permanent,1967,Good,6,4,15,14.829752,120.806117
+162,Luzon,National Capital Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 2,B00162LZ,Sample Bridge 162,116.39,12.38,Pre-stressed Concrete,Permanent,1992,Poor,9,2,30,15.979606,120.388813
+163,Luzon,Cordillera Administrative Region,Metro Manila,Cavite DEO,National Highway Sector 3,B00163LZ,Sample Bridge 163,10.95,7.09,Steel,Permanent,1962,Good,9,6,30,14.669189,120.309278
+164,Luzon,Region IV-A - CALABARZON,Cavite,Benguet 1st DEO,National Highway Sector 4,B00164LZ,Sample Bridge 164,176.76,14.39,Pre-stressed Concrete,Permanent,1965,Bad,7,4,25,15.25722,121.593058
+165,Luzon,Region I - Ilocos Region,Ilocos Norte,Cavite DEO,National Highway Sector 5,B00165LZ,Sample Bridge 165,49.97,6.22,Steel,Permanent,2007,Bad,2,4,15,14.965734,121.224818
+166,Luzon,National Capital Region,Cavite,Cavite DEO,National Highway Sector 6,B00166LZ,Sample Bridge 166,173.55,9.21,Pre-stressed Concrete,Permanent,1963,Good,4,2,20,15.818058,121.120013
+167,Luzon,Cordillera Administrative Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 7,B00167LZ,Sample Bridge 167,262.15,14.14,Timber,Permanent,2013,Poor,5,2,25,14.705891,121.348978
+168,Luzon,National Capital Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 8,B00168LZ,Sample Bridge 168,137.21,12.04,Concrete,Permanent,1996,Fair,5,2,30,15.747489,121.408976
+169,Luzon,Cordillera Administrative Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 9,B00169LZ,Sample Bridge 169,82.13,8.1,Timber,Permanent,1961,Poor,3,4,25,16.21028,120.800958
+170,Luzon,Region IV-A - CALABARZON,Metro Manila,Cavite DEO,National Highway Sector 0,B00170LZ,Sample Bridge 170,36.26,7.53,Timber,Permanent,2011,Bad,8,4,25,16.522433,121.254712
+171,Luzon,Cordillera Administrative Region,Cavite,Metro Manila 1st DEO,National Highway Sector 1,B00171LZ,Sample Bridge 171,241.27,10.81,Concrete,Permanent,1980,Bad,10,4,25,15.450345,121.847045
+172,Luzon,National Capital Region,Cavite,Benguet 1st DEO,National Highway Sector 2,B00172LZ,Sample Bridge 172,195.26,10.63,Timber,Permanent,2008,Fair,6,4,15,14.373971,121.864365
+173,Luzon,Cordillera Administrative Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 3,B00173LZ,Sample Bridge 173,48.63,13.42,Pre-stressed Concrete,Permanent,2021,Fair,5,4,25,14.66177,121.564314
+174,Luzon,Cordillera Administrative Region,Cavite,Cavite DEO,National Highway Sector 4,B00174LZ,Sample Bridge 174,174.43,14.47,Steel,Permanent,1978,Poor,9,6,20,15.745133,120.762175
+175,Luzon,Region IV-A - CALABARZON,Benguet,Cavite DEO,National Highway Sector 5,B00175LZ,Sample Bridge 175,67.72,12.33,Steel,Permanent,1973,Fair,9,2,30,15.063086,120.942969
+176,Luzon,Region I - Ilocos Region,Ilocos Norte,Metro Manila 1st DEO,National Highway Sector 6,B00176LZ,Sample Bridge 176,87.06,6.19,Timber,Permanent,1980,Bad,1,2,25,15.315438,121.281057
+177,Luzon,Cordillera Administrative Region,Ilocos Norte,Cavite DEO,National Highway Sector 7,B00177LZ,Sample Bridge 177,264.17,6.46,Steel,Permanent,1966,Poor,3,6,20,16.850406,120.093591
+178,Luzon,Region I - Ilocos Region,Cavite,Benguet 1st DEO,National Highway Sector 8,B00178LZ,Sample Bridge 178,160.38,12.31,Concrete,Permanent,1998,Good,3,4,20,14.873613,121.133466
+179,Luzon,Region I - Ilocos Region,Metro Manila,Metro Manila 1st DEO,National Highway Sector 9,B00179LZ,Sample Bridge 179,276.2,12.96,Timber,Permanent,1966,Good,3,4,25,16.579202,121.423177
+180,Luzon,Region IV-A - CALABARZON,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 0,B00180LZ,Sample Bridge 180,285.04,11.62,Pre-stressed Concrete,Permanent,2008,Fair,1,4,15,14.48086,120.851582
+181,Luzon,Cordillera Administrative Region,Benguet,Benguet 1st DEO,National Highway Sector 1,B00181LZ,Sample Bridge 181,171.71,12.42,Timber,Permanent,1972,Fair,3,4,25,16.014053,120.814739
+182,Luzon,National Capital Region,Metro Manila,Cavite DEO,National Highway Sector 2,B00182LZ,Sample Bridge 182,90.65,14.11,Concrete,Permanent,1966,Fair,2,4,30,14.866559,120.815082
+183,Luzon,Region IV-A - CALABARZON,Benguet,Metro Manila 1st DEO,National Highway Sector 3,B00183LZ,Sample Bridge 183,60.8,12.5,Concrete,Permanent,2015,Good,10,6,25,16.938408,120.883547
+184,Luzon,National Capital Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 4,B00184LZ,Sample Bridge 184,253.3,13.59,Steel,Permanent,1989,Bad,8,4,15,16.205532,121.06963
+185,Luzon,National Capital Region,Ilocos Norte,Cavite DEO,National Highway Sector 5,B00185LZ,Sample Bridge 185,237.17,11.75,Steel,Permanent,1968,Fair,5,4,20,16.931443,120.118025
+186,Luzon,Cordillera Administrative Region,Cavite,Metro Manila 1st DEO,National Highway Sector 6,B00186LZ,Sample Bridge 186,90.29,8.83,Pre-stressed Concrete,Permanent,1984,Bad,8,4,30,15.723803,121.916443
+187,Luzon,Cordillera Administrative Region,Cavite,Metro Manila 1st DEO,National Highway Sector 7,B00187LZ,Sample Bridge 187,63.45,12.45,Steel,Permanent,1960,Good,1,2,30,15.125609,120.333738
+188,Luzon,Cordillera Administrative Region,Benguet,Metro Manila 1st DEO,National Highway Sector 8,B00188LZ,Sample Bridge 188,181.26,8.79,Pre-stressed Concrete,Permanent,1968,Fair,1,2,20,14.789772,121.979661
+189,Luzon,National Capital Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 9,B00189LZ,Sample Bridge 189,250.09,13.35,Steel,Permanent,1960,Fair,2,2,25,15.161909,120.665156
+190,Luzon,National Capital Region,Metro Manila,Ilocos Norte 1st DEO,National Highway Sector 0,B00190LZ,Sample Bridge 190,69.75,13.09,Timber,Permanent,2021,Poor,1,4,25,15.733908,121.906927
+191,Luzon,Region IV-A - CALABARZON,Cavite,Metro Manila 1st DEO,National Highway Sector 1,B00191LZ,Sample Bridge 191,244.49,9.71,Steel,Permanent,1965,Good,10,4,25,15.383114,121.360173
+192,Luzon,Cordillera Administrative Region,Benguet,Ilocos Norte 1st DEO,National Highway Sector 2,B00192LZ,Sample Bridge 192,177.56,12.23,Timber,Permanent,2018,Bad,3,2,15,15.405841,121.23066
+193,Luzon,National Capital Region,Ilocos Norte,Cavite DEO,National Highway Sector 3,B00193LZ,Sample Bridge 193,169.73,6.98,Concrete,Permanent,2001,Bad,6,6,25,16.972423,120.488043
+194,Luzon,Region IV-A - CALABARZON,Metro Manila,Cavite DEO,National Highway Sector 4,B00194LZ,Sample Bridge 194,187.18,10.52,Pre-stressed Concrete,Permanent,1981,Bad,5,4,25,15.169312,121.96336
+195,Luzon,National Capital Region,Ilocos Norte,Ilocos Norte 1st DEO,National Highway Sector 5,B00195LZ,Sample Bridge 195,117.87,10.21,Steel,Permanent,2004,Poor,1,6,25,15.365262,120.064279
+196,Luzon,Cordillera Administrative Region,Cavite,Benguet 1st DEO,National Highway Sector 6,B00196LZ,Sample Bridge 196,38.35,8.65,Pre-stressed Concrete,Permanent,2020,Good,1,4,20,16.689254,120.891913
+197,Luzon,Region I - Ilocos Region,Benguet,Cavite DEO,National Highway Sector 7,B00197LZ,Sample Bridge 197,131.13,14.07,Steel,Permanent,1972,Poor,8,6,20,15.364498,120.98732
+198,Luzon,Region I - Ilocos Region,Ilocos Norte,Cavite DEO,National Highway Sector 8,B00198LZ,Sample Bridge 198,218.12,11.94,Concrete,Permanent,2011,Bad,8,4,15,16.931502,121.264034
+199,Luzon,Region IV-A - CALABARZON,Metro Manila,Metro Manila 1st DEO,National Highway Sector 9,B00199LZ,Sample Bridge 199,28.94,12.15,Pre-stressed Concrete,Permanent,1969,Bad,4,4,20,16.935222,120.299777
+200,Luzon,National Capital Region,Ilocos Norte,Benguet 1st DEO,National Highway Sector 0,B00200LZ,Sample Bridge 200,232.72,9.14,Steel,Permanent,1970,Fair,5,2,25,15.056469,121.575928
